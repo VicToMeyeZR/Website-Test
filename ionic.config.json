@@ -1,0 +1,8 @@
+{
+  "name": "commerce-test",
+  "app_id": "d9039a2c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
